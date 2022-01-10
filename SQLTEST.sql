@@ -1,4 +1,4 @@
-use bnine;
+
 --- Task 1
 select ID, mobile_phone
 from (
